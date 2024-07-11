@@ -1,35 +1,15 @@
-# todo-list-programee
+# TODO LIST
 
-This template should help get you started developing with Vue 3 in Vite.
+Momento de comprobar una posible solución a este proyecto
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+## Configuración del proyecto
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Compilar y ejecutar
 
 ```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
 ```
